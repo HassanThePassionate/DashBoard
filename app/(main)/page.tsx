@@ -1,5 +1,5 @@
 import AnalyticsChart from "@/components/dashboard/AnalyticsChart";
-import DashboardCard from "@/components/dashboard/DashBoardCard";
+import DashboardCard from "@/components/dashboard/DashboardCard";
 import Poststable from "@/components/posts/Poststable";
 import { Folder, MessageCircle, Newspaper, User } from "lucide-react";
 export default function Home() {
